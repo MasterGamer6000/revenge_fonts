@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Junicode",
+    "previewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/MasterGamer6000/revenge_fonts/blob/main/Junicode-Bold.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/MasterGamer6000/revenge_fonts/blob/main/Junicode-Bold.ttf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/MasterGamer6000/revenge_fonts/blob/main/Junicode-BoldItalic.ttf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/MasterGamer6000/revenge_fonts/blob/main/Junicode-Bold.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/MasterGamer6000/revenge_fonts/blob/main/Junicode-BoldItalic.ttf?raw=1",
+        "ggsans-Medium": "https://github.com/MasterGamer6000/revenge_fonts/blob/main/Junicode-Medium.ttf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/MasterGamer6000/revenge_fonts/blob/main/Junicode-MediumItalic.ttf?raw=1",
+        "ggsans-Normal": "https://github.com/MasterGamer6000/revenge_fonts/blob/main/Junicode-Regular.ttf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/MasterGamer6000/revenge_fonts/blob/main/Junicode-Italic.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/MasterGamer6000/revenge_fonts/blob/main/Junicode-SmBold.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/MasterGamer6000/revenge_fonts/blob/main/Junicode-SmBoldItalic.ttf?raw=1",
+        "NotoSans-Bold": "https://github.com/MasterGamer6000/revenge_fonts/blob/main/Junicode-Bold.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/MasterGamer6000/revenge_fonts/blob/main/Junicode-Bold.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/MasterGamer6000/revenge_fonts/blob/main/Junicode-Medium.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/MasterGamer6000/revenge_fonts/blob/main/Junicode-Regular.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/MasterGamer6000/revenge_fonts/blob/main/Junicode-Italic.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/MasterGamer6000/revenge_fonts/blob/main/Junicode-SmBold.ttf?raw=1",
+        "SourceCodePro-Semibold": "https://github.com/MasterGamer6000/revenge_fonts/blob/main/Junicode-SmBold.ttf?raw=1"
+    }
+}
